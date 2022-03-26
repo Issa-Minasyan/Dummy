@@ -1,7 +1,7 @@
 # importing libraries
-import pandas as pd
-import chemparse
-import matplotlib.pyplot as plt
+import pandas as pd                                                         # for comma separated values
+import chemparse                                                            # for breaking down chemical formulas
+import matplotlib.pyplot as plt                                             # plotting option
 
 # defining the periodic table
 mass_number = {}
